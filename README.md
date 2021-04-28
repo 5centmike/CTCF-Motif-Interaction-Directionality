@@ -17,4 +17,8 @@ Enrichment for the CTCF motif over other motifs with the same base-content in a 
 
 <img src="https://github.com/5centmike/CTCF-Motif-Interaction-Directionality/blob/main/StrongCTCFDistPlot.png" width="400"><img src="https://github.com/5centmike/CTCF-Motif-Interaction-Directionality/blob/main/StrongSH4DistPlot.png" width="400">
 
+In these plots we present the orientation bias across all identified motifs in the genome divided according to orientation. The shaded area represent 0.95 confidence intervals. For the CTCF motifs we see a distinct orientation bias, however, this bias is the opposite orientation of the bias seen in humans and other mammals. The negative control SH4 shows no bias.
+
 <img src="https://github.com/5centmike/CTCF-Motif-Interaction-Directionality/blob/main/StrongCTCFBoxPlot.png" width="400"><img src="https://github.com/5centmike/CTCF-Motif-Interaction-Directionality/blob/main/StrongSH4BoxPlot.png" width="400">
+
+In these plots we achieve maximum statistical power by combining interactions over all distances. Here we show the distribution of each CTCF motif's orientation bias which again shows a distinct orientation at CTCF motifs and no orientation at the SH4 negative control.
